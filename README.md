@@ -2,4 +2,3 @@
 - 👀 I’m interested in AWS, OpenSource, AI, BlockChain
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on open-shift/computer.yaml or leyton orient kickabout or halab.info
-- 📫 mohammad_jumah@outlook.com
