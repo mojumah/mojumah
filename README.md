@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @mojumah
-- 👀 I’m interested in AWS, OpenSource, AI, BlockChain
+- 👀 I’m interested in AWS, Uber, Jenkins, MySQL, Ubuntu, Python, PHP, Linux
 - 🌱 I’m currently learning AWS
