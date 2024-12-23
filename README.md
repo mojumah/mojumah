@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Mohammad Jumah
-- 👀 I’m interested in AWS, Uber, Jenkins, MySQL, Ubuntu, Python, PHP, Linux
 - 🌱 I’m currently learning AWS
