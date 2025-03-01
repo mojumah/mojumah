@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Mohammad Jumah
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning Linux
